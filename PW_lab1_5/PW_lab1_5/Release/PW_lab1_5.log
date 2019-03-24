@@ -1,0 +1,11 @@
+﻿  PW_lab1_5.cpp
+PW_lab1_5.cpp(89): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+PW_lab1_5.cpp(94): warning C4101: "time_t": lokalna zmienna, do której nie istnieje odwołanie
+PW_lab1_5.cpp(95): warning C4101: "stop_t": lokalna zmienna, do której nie istnieje odwołanie
+PW_lab1_5.cpp(95): warning C4101: "start_t": lokalna zmienna, do której nie istnieje odwołanie
+  Trwa generowanie kodu
+  0 of 15 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    7 functions had inline decision re-evaluated but remain unchanged
+  Zakończono generowanie kodu
+  PW_lab1_5.vcxproj -> C:\Users\user\Documents\_PuT\VScpp\PW_lab1_5\Release\PW_lab1_5.exe

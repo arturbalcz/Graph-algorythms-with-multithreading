@@ -1,0 +1,4 @@
+﻿  PW_lab1_5.cpp
+c:\users\user\documents\_put\vscpp\pw_lab1_5\pw_lab1_5\pw_lab1_5.cpp(27): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+c:\users\user\documents\_put\vscpp\pw_lab1_5\pw_lab1_5\pw_lab1_5.cpp(28): warning C4244: "=": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+  PW_lab1_5.vcxproj -> C:\Users\user\Documents\_PuT\VScpp\PW_lab1_5\Debug\PW_lab1_5.exe
