@@ -1,0 +1,10 @@
+﻿  PW_lab1_3.cpp
+c:\users\user\documents\_put\vscpp\pw_lab1_3\pw_lab1_3\pw_lab1_3.cpp(40): warning C4244: "=": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+c:\users\user\documents\_put\vscpp\pw_lab1_3\pw_lab1_3\pw_lab1_3.cpp(41): warning C4244: "=": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+c:\users\user\documents\_put\vscpp\pw_lab1_3\pw_lab1_3\pw_lab1_3.cpp(42): warning C4244: "=": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+c:\users\user\documents\_put\vscpp\pw_lab1_3\pw_lab1_3\pw_lab1_3.cpp(43): warning C4244: "=": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+c:\users\user\documents\_put\vscpp\pw_lab1_3\pw_lab1_3\pw_lab1_3.cpp(37): warning C4101: "end": lokalna zmienna, do której nie istnieje odwołanie
+c:\users\user\documents\_put\vscpp\pw_lab1_3\pw_lab1_3\pw_lab1_3.cpp(37): warning C4101: "start": lokalna zmienna, do której nie istnieje odwołanie
+c:\users\user\documents\_put\vscpp\pw_lab1_3\pw_lab1_3\pw_lab1_3.cpp(47): warning C4101: "nt_p": lokalna zmienna, do której nie istnieje odwołanie
+c:\users\user\documents\_put\vscpp\pw_lab1_3\pw_lab1_3\pw_lab1_3.cpp(47): warning C4101: "nt": lokalna zmienna, do której nie istnieje odwołanie
+  PW_lab1_3.vcxproj -> C:\Users\user\Documents\_PuT\VScpp\PW_lab1_3\Debug\PW_lab1_3.exe
